@@ -1,14 +1,11 @@
 <template>
   <div class="app">
-    <TravelList />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-  import TravelList from '@/components/TravelList';
-  export default {
-    components: { TravelList },
-  };
+  export default {};
 </script>
 
 <style>
