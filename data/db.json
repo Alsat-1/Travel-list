@@ -1,40 +1,46 @@
 {
   "travels": [
     {
-      "title": "2 Night Stay in Venice",
-      "price": "$190",
-      "location": "europe",
-      "id": "1"
-    },
-    {
-      "title": "3 Night Stay in Paris",
-      "price": "$295",
-      "location": "europe",
-      "id": "2"
-    },
-    {
-      "title": "4 Night Stay in London",
-      "price": "$345",
-      "location": "europe",
-      "id": "3"
-    },
-    {
-      "title": "3 Night Stay in New York",
-      "price": "$325",
-      "location": "america",
-      "id": "4"
-    },
-    {
-      "title": "7 days in Mayami",
-      "price": "$1200",
+      "title": "7 Days Stay in Miami",
+      "price": "$1000",
       "location": "america",
       "id": "LRqUOm7"
     },
     {
-      "title": "3 weeks in England",
+      "title": "3 Weeks in England",
       "price": "$2500",
       "location": "europe",
-      "id": "PXdTMiW"
+      "id": "OlOsfUY"
+    },
+    {
+      "title": "3 Days Stay in Paris",
+      "price": "$295",
+      "location": "europe",
+      "id": "ILuQ09U"
+    },
+    {
+      "title": "10 Days Stay in Dubai",
+      "price": "$1500",
+      "location": "africa",
+      "id": "WvaNZjc"
+    },
+    {
+      "title": "2 Days Stay in Venice",
+      "price": "$190",
+      "location": "europe",
+      "id": "3vt5GT9"
+    },
+    {
+      "title": "4 Days Stay in London",
+      "price": "$340",
+      "location": "europe",
+      "id": "kni4xCh"
+    },
+    {
+      "title": "3 Days Stay in New York",
+      "price": "$325",
+      "location": "america",
+      "id": "ypWschv"
     }
   ]
 }

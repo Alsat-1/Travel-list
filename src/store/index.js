@@ -52,9 +52,9 @@ export default createStore({
         commit('setError', err.message);
       }
     },
-    async addNewTravel({ commit }, payload) {
+    async addNewTravel({ commit, state }, payload) {
       try {
-        const travels = await fetch(this.state.url, {
+        const travels = await fetch(state.url, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload),

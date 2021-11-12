@@ -22,8 +22,9 @@
 
 <style scoped>
   .travel__search {
-    width: 480px;
-    padding: 5px 10px;
+    width: 500px;
+    padding: 6px 10px;
+    font-size: 14px;
     box-sizing: border-box;
     box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.3);
   }
