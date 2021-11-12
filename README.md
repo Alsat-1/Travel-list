@@ -1,5 +1,4 @@
-# pr2-fetch-vue
-
+# Travel list
 ## Project setup
 ```
 npm install
